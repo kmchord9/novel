@@ -16,10 +16,10 @@ novel_url = "https://ncode.syosetu.com/n5040ce/"
 '''
 
 #保存時のファイルタイトル
-novel_title = "デスマーチからはじまる異世界狂想曲"
+novel_title = ""
 
 #取得ページURL
-novel_url = "https://ncode.syosetu.com/n9902bn/"
+novel_url = ""
 
 file_path = os.path.dirname(__file__)
 save_path = file_path + novel_title + ".txt"
